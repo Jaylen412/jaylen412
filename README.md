@@ -32,10 +32,10 @@
 
 ### 🧪 Projects & Experiments
 
-- 🌧️ [**BASYN**](#) — Cloud-native flood mitigation system integrating IoT sensors, predictive analytics, and real-time control to help cities manage stormwater infrastructure.
-- 🎯 [**FUNDR**](https://chatgpt.com/g/g-68f178c7eb70819181bc7ab5a63d6a09-fundr) — AI insight engine that highlights influential small businesses driving community growth. It translates local business data into actionable recommendations for customers, owners, and institutions.
-- ⭐️ [**Local Lens**](https://chatgpt.com/g/g-68db33ed96308191865f81b6d7623682-ai-business-analyst) — Analyzes Google Business data to generate personalized insight reports, helping small businesses tailor their customer experience.
-- 🏈 [**StatHuddle**](#) — Full-stack Spring Boot + React platform for NFL analytics and data-driven community discussion.
+- 🌧️ <a href="#"><Strong>BASYN</Strong></a> — Cloud-native flood mitigation system integrating IoT sensors, predictive analytics, and real-time control to help cities manage stormwater infrastructure.
+- 🎯 <a href="https://chatgpt.com/g/g-68f178c7eb70819181bc7ab5a63d6a09-fundr" target="_blank" rel="noopener noreferrer"><strong>FUNDR</strong></a> — AI insight engine that highlights influential small businesses driving community growth. It translates local business data into actionable recommendations for customers, owners, and institutions.
+- ⭐️ <a href="https://chatgpt.com/g/g-68db33ed96308191865f81b6d7623682-ai-business-analyst" target="_blank" rel="noopener noreferrer"><Strong>Local Lens</Strong></a> — Analyze Google Business data to generate personalized insight reports, helping small businesses tailor their customer experience.
+- 🏈 <a href="#"><Strong>StatHuddle</Strong></a> — Full-stack Spring Boot + React platform for NFL analytics and data-driven community discussion.
 
 <!-- ---
 
