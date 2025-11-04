@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hey 👋🏾</h1>
+<h1 align="center">Welcome to my GitHub 💻</h1>
 <p align="center">
   I'm <b>Jaylen</b> — a Software Engineer and Graduate Student passionate about building intelligent, human-centered, and scalable systems. I care about accessibility, performance, and thoughtful developer experience.
 </p>
@@ -32,10 +32,10 @@
 
 ### 🧪 Projects & Experiments
 
-- 🌧️ [**BASYN**](#) — Cloud-native flood mitigation system integrating IoT sensors, predictive analytics, and real-time control to help cities manage stormwater infrastructure.
+- 🌧️ **BASYN** — Cloud-native flood mitigation system integrating IoT sensors, predictive analytics, and real-time control to help cities manage stormwater infrastructure.
 - 🎯 [**FUNDR**](https://chatgpt.com/g/g-68f178c7eb70819181bc7ab5a63d6a09-fundr) — AI insight engine that highlights influential small businesses driving community growth. It translates local business data into actionable recommendations for customers, owners, and institutions.
 - ⭐️ [**Local Lens**](https://chatgpt.com/g/g-68db33ed96308191865f81b6d7623682-ai-business-analyst) — Analyzes Google Business data to generate personalized insight reports, helping small businesses tailor their customer experience.
-- 🏈 [**StatHuddle**](#) — Full-stack Spring Boot + React platform for NFL analytics and data-driven community discussion.
+- 🏈 **StatHuddle** — Full-stack Spring Boot + React platform for NFL analytics and data-driven community discussion.
 
 <!-- ---
 
