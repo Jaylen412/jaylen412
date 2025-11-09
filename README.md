@@ -13,7 +13,7 @@
 
 ### 🌟 About Me
 
-- 💻 Software Engineer with 4.5 years of experience
+- 💻 4.5 years of full-stack experience
 - 🎓 Pursuing a M.S. in Computer Science (Artificial Intelligence Concentration) @ Eastern Kentucky University
 - 🏙️ Born & raised Detroiter building tech for community impact
 - 🌧️ Founder of **BASYN**, a cloud-native flood mitigation platform for stormwater management
