@@ -36,7 +36,6 @@
 
 - 🎯 [**FUNDR**](https://chatgpt.com/g/g-68f178c7eb70819181bc7ab5a63d6a09-fundr) — AI insight engine that highlights influential small businesses driving community growth. It translates local business data into actionable recommendations for customers, owners, and institutions highlighting funding opportunities.
 - ⭐️ [**Local Lens**](https://chatgpt.com/g/g-68db33ed96308191865f81b6d7623682-ai-business-analyst) — Analyzes Google Business data to generate personalized insight reports, helping small businesses tailor their customer experience.
-- 🏈 **StatHuddle** — Full-stack Spring Boot + React platform for NFL analytics and data-driven community discussion.
 
 <!-- ---
 
