@@ -34,14 +34,7 @@
 
 <!-- - 🌧️ **BASYN** — Cloud-native flood mitigation system integrating IoT sensors, predictive analytics, and real-time control to help cities manage stormwater infrastructure. -->
 
-- 🎯 [**FUNDR**](https://chatgpt.com/g/g-68f178c7eb70819181bc7ab5a63d6a09-fundr) — AI insight engine that highlights influential small businesses driving community growth. It translates local business data into actionable recommendations for customers, owners, and institutions highlighting funding opportunities.
-- ⭐️ [**Local Lens**](https://chatgpt.com/g/g-68db33ed96308191865f81b6d7623682-ai-business-analyst) — Analyzes Google Business data to generate personalized insight reports, helping small businesses tailor their customer experience.
+- 🎯 **FUNDR** — AI insight engine that highlights influential small businesses driving community growth. It translates local business data into actionable recommendations for customers, owners, and institutions.
+- ⭐️ **Local Lens** — Analyzes Google Business data to generate personalized insight reports, helping small businesses tailor their customer experience.
 
-<!-- ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaylen412&show_icons=true&hide_border=true&theme=react" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaylen412&layout=compact&hide_border=true&theme=react" />
-</p> -->
+<!-- --- -->
