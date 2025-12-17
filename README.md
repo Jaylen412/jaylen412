@@ -13,7 +13,7 @@
 
 ### 🌟 About Me
 
-- 💻 Software Engineer with 4.5 years of experience
+- 💻 4.5 years of full-stack experience
 - 🎓 Pursuing a M.S. in Computer Science (Artificial Intelligence Concentration) @ Eastern Kentucky University
 - 🏙️ Born & raised Detroiter building tech for community impact
 - 🌧️ Founder of **BASYN**, a cloud-native flood mitigation platform for stormwater management
@@ -36,6 +36,5 @@
 
 - 🎯 **FUNDR** — AI insight engine that highlights influential small businesses driving community growth. It translates local business data into actionable recommendations for customers, owners, and institutions.
 - ⭐️ **Local Lens** — Analyzes Google Business data to generate personalized insight reports, helping small businesses tailor their customer experience.
-- 🏈 **StatHuddle** — Full-stack Spring Boot + React platform for NFL analytics and data-driven community discussion.
 
 <!-- --- -->
