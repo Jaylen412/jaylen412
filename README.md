@@ -38,11 +38,4 @@
 - ⭐️ **Local Lens** — Analyzes Google Business data to generate personalized insight reports, helping small businesses tailor their customer experience.
 - 🏈 **StatHuddle** — Full-stack Spring Boot + React platform for NFL analytics and data-driven community discussion.
 
-<!-- ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaylen412&show_icons=true&hide_border=true&theme=react" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaylen412&layout=compact&hide_border=true&theme=react" />
-</p> -->
+<!-- --- -->
