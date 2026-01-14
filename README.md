@@ -32,7 +32,6 @@
 
 ### 🧪 Projects & Experiments
 
-- 🌧️ **BASYN** — Cloud-native flood mitigation system integrating IoT sensors, predictive analytics, and real-time control to help cities manage stormwater infrastructure.
 - 🎯 **FUNDR** — AI insight engine that highlights influential small businesses driving community growth. It translates local business data into actionable recommendations for customers, owners, and institutions.
 - ⭐️ **Local Lens** — Analyzes Google Business data to generate personalized insight reports, helping small businesses tailor their customer experience.
 
