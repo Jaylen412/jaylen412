@@ -17,7 +17,7 @@
 - 🎓 Pursuing a M.S. in Computer Science (Artificial Intelligence Concentration) @ Eastern Kentucky University
 - 🏙️ Born & raised Detroiter building tech for community impact
 - 🌧️ Founder of **BASYN**, a cloud-native flood mitigation platform for stormwater management
-- 📚 Currently learning **Apache Hadoop** and **distributed data systems** for Big Data processing
+- 📚 Building a solid foundation in **Supervised** and **Unsupervised** Machine Learning. Turning labeled data into reliable predictions and unlabeled data into surprising insights.
 - 🧠 Exploring AI/ML applications in urban resilience and small-business analytics
 
 ---
