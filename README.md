@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Welcome to my GitHub 💻</h1>
 <p align="center">
-  I'm <b>Jaylen</b> — a Software Engineer and Graduate Student passionate about building intelligent, human-centered, and scalable systems. I care about accessibility, performance, and thoughtful developer experience.
+  I'm <b>Jaylen</b> — an Applied AI Engineer and Graduate Student passionate about building intelligent, human-centered, and scalable systems. I care about accessibility, performance, and thoughtful developer experience.
 </p>
 
 <!-- Quick hits -->
@@ -13,7 +13,7 @@
 
 ### 🌟 About Me
 
-- 💻 4.5 years of full-stack experience
+- 💻 5 years of Software Engineering experience
 - 🎓 Pursuing a M.S. in Computer Science (Artificial Intelligence Concentration) @ Eastern Kentucky University
 - 🏙️ Born & raised Detroiter building tech for community impact
 - 🌧️ Founder of **BASYN**, a cloud-native flood mitigation platform for stormwater management
